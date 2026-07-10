@@ -26,7 +26,7 @@ Create a responsive Personal Portfolio Website using HTML, CSS, and Bootstrap to
 ## 👩‍💻 Author
 **Tejasri**  
 Frontend Developer Intern @ Alfido Tech  
-Email: tejasri@gmail.com
+Email: bobbilitejasri@gmail.com
 
 ---
 Task 1 Completed ✅
